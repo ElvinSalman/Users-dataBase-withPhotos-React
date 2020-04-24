@@ -1,4 +1,7 @@
-# Pages with information about Users from 
+# Pages with information about Users from :
+https://jsonplaceholder.typicode.com/users.
+# And their photos:
+https://jsonplaceholder.typicode.com/photos
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
