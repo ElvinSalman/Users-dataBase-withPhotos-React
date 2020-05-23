@@ -1,3 +1,4 @@
+Responsive pages
 # Pages with information about Users from :
 https://jsonplaceholder.typicode.com/users.
 # And their photos:
